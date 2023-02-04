@@ -254,7 +254,7 @@
 		      error: function() {
 
 		      	sLoader.fadeOut(); 
-		      	$('#message-warning').html("Something went wrong. Please try again.");
+		      	$('#message-warning').html("Algo deu errado. Por favor, tente novamente.");
 		         $('#message-warning').fadeIn();
 
 		      }
